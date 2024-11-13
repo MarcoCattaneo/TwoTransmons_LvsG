@@ -1,5 +1,5 @@
 # Two_Transmons_globalVSlocal_bath
-Code for finding the steady state and transmission coefficients of two transmons in a waveguide interacting with both local and global thermal baths. The code is based on the theoretical model for the experiment described in [*Sharafiev, Juan, Cattaneo and Kirchmair, preprint arXiv:2407.05958 (2024)*](http://arxiv.org/abs/2407.05958).
+Code for finding the steady state and transmission coefficients of two transmons in a waveguide interacting with both local and global thermal baths. The code is based on the theoretical model for the experiment described in *Sharafiev, Juan, Cattaneo and Kirchmair, Leveraging collective effects for thermometry in waveguide quantum electrodynamics, preprint* [*arXiv:2407.05958*](http://arxiv.org/abs/2407.05958)  *(2024)*.
 
 ### Required packages:
 
