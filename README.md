@@ -1,5 +1,5 @@
 # TwoTransmons_LvsG
-Code for finding the steady state and transmission coefficients of two transmons in a waveguide interacting with both local and global thermal baths. The code is based on the theoretical model for the experiment described in [*Sharafiev, Juan, Cattaneo and Kirchmair, Leveraging collective effects for thermometry in waveguide quantum electrodynamics, Phys. Rev. Lett. 134, 213602 (2024)*](https://link.aps.org/doi/10.1103/PhysRevLett.134.213602).
+Code for finding the steady state and transmission coefficients of two transmons in a waveguide interacting with both local and global thermal baths. The code is based on the theoretical model for the experiment described in [*Sharafiev, Juan, Cattaneo and Kirchmair, Leveraging collective effects for thermometry in waveguide quantum electrodynamics, Phys. Rev. Lett. 134, 213602 (2025)*](https://link.aps.org/doi/10.1103/PhysRevLett.134.213602).
 
 ### Required packages:
 
